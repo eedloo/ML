@@ -7,6 +7,7 @@ Models added so far:
     polynomial regression\
     support vector regression\
     decision tree\
-    random forest\
+    random forest
 2. Classification:\
     Logistic regression\
+    
