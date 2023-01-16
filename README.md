@@ -9,5 +9,8 @@ Models added so far:
     decision tree\
     random forest
 2. Classification:\
-    Logistic regression\
+    Logistic regression
+
+3. Association Rules:\
+    Apriori
     
